@@ -54,7 +54,7 @@ a:focus, .btn-link:focus,
 .f0f--section .footer > a,
 .footer--copyright a {
     /* color: #f69323; */
-    color: dodgerblue;
+    color: green;
 }
 
 /*------------------------------------*\
@@ -113,18 +113,18 @@ a:focus, .btn-link:focus,
 .contact--title:before,
 .footer--widget .widget--title .h4:before {
     /* background-color: #f69323; */
-    background-color: dodgerblue;
+    background-color: green;
 }
 
 ::-moz-selection {
     /* background-color: #f69323; */
-    background-color: dodgerblue;
+    background-color: green;
 
 }
 
 ::selection {
     /* background-color: #f69323; */
-    background-color: dodgerblue;
+    background-color: green;
 
 }
 
@@ -181,7 +181,7 @@ a:focus, .btn-link:focus,
 .contact--map,
 .cta--content {
     /* border-color: #f69323; */
-    border-color: dodgerblue;
+    border-color: green;
 }
 
 .pager li .tooltip .tooltip-arrow,
@@ -190,10 +190,10 @@ a:focus, .btn-link:focus,
 .product--single-summery .title .btn-group .tooltip .tooltip-arrow,
 .checkout--info > p {
     /* border-top-color: #f69323; */
-    border-top-color: dodgerblue;
+    border-top-color: green;
 }
 
 .about--content .h2 {
     /* border-bottom-color: #f69323; */
-    border-bottom-color: dodgerblue;
+    border-bottom-color: green;
 }
